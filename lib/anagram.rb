@@ -12,5 +12,6 @@ class Anagram
       array_word.sort == @word.sort
     end
   end
+end
 
 end
